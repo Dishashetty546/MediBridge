@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tech](https://img.shields.io/badge/Stack-MERN-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 **MediBridge** is a full-stack web application designed to modernize patient record handling in clinics. It bridges the gap between doctors, patients, and receptionists through a centralized, easy-to-use digital platform.
 
