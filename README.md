@@ -89,3 +89,82 @@ npm install
 ````bash
 server/db.js
 `````
+
+## 🧾 Usage Workflow
+
+Below is a step-by-step guide to using the **MediBridge** system. Each action is accompanied by a relevant screenshot for clarity.
+
+---
+
+### 1. 🧑‍💼 Receptionist Login
+
+- Login to the receptionist panel using the credentials:
+  - **Email:** `receptionist@careclinic.com`
+  - **Password:** `receptionist@careclinic.com`
+- Navigate to the **Patient Registration** section.
+
+📸 Screenshot:  
+![Receptionist Login](./Screenshots/b.png)
+
+---
+
+### 2. 🆕 Generate Token
+
+- Register new patients by entering their details (name, age, phone, etc.).
+- A **unique token ID** is generated upon registration.
+- Provide this token to the patient for future consultations.
+
+📸 Screenshot:  
+![Token Generation](./Screenshots/token-generation.png)
+
+---
+
+### 3. 🩺 Doctor Login
+
+- Login to the doctor's panel using:
+  - **Email:** `doctor@careclinic.com`
+  - **Password:** `doctor@careclinic.com`
+
+📸 Screenshot:  
+![Doctor Login](./Screenshots/doctor-login.png)
+
+---
+
+### 4. 🔍 Retrieve Patient Information
+
+- Enter the **patient's token ID** to access:
+  - Patient details
+  - Medical history
+  - Previous prescriptions
+
+📸 Screenshot:  
+![Patient Retrieval](./Screenshots/patient-retrieval.png)
+
+---
+
+### 5. 💊 Prescription Details
+
+- Consult with the patient.
+- Add a **new prescription** with:
+  - Medications
+  - Recommended treatments
+  - Notes or diagnosis
+
+📸 Screenshot:  
+![Prescription Entry](./Screenshots/prescription-entry.png)
+
+---
+
+### 6. 💳 Receptionist Billing
+
+- Login as a receptionist again.
+- Retrieve patient data using the token.
+- Review doctor's prescription.
+- Enter and confirm **billing details**:
+  - Consultation fee
+  - Medicine costs
+
+📸 Screenshot:  
+![Billing Screen](./Screenshots/billing.png)
+
+---
