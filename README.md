@@ -67,7 +67,7 @@ This application is ideal for small to mid-sized clinics. It enables:
 ```bash
 # Clone the repository
 git clone https://github.com/Dishashetty546/MediBridge.git
-cd MediBridge
+
 ```
 
 ## ⚙️ Installation & Setup
