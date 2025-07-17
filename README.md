@@ -60,17 +60,7 @@ This application is ideal for small to mid-sized clinics. It enables:
 | ----------------------------------------- | ------------------------------------- | ----------------------------------- |
 | ![reception](./Screenshots/reception.png) | ![patient](./Screenshots/patient.png) | ![doctor](./Screenshots/doctor.png) |
 
-> 🔎 Add more screenshots or demo GIFs for better presentation.
-
 ---
-
-## ⚙️ Setup Instructions
-
-### 🔧 Prerequisites
-
-- Node.js & npm installed
-- MongoDB or MongoDB Atlas account
-- Git
 
 ### 📥 Installation
 
@@ -79,3 +69,23 @@ This application is ideal for small to mid-sized clinics. It enables:
 git clone https://github.com/Dishashetty546/MediBridge.git
 cd MediBridge
 ```
+
+## ⚙️ Installation & Setup
+
+Follow these steps to get the project up and running on your local machine.
+
+---
+
+### 1. Install Frontend , Backend Dependencies and Configure MongoDB
+
+`````bash
+cd client
+npm install
+
+````bash
+cd server
+npm install
+
+````bash
+server/db.js
+`````
