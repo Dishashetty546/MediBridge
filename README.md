@@ -7,6 +7,8 @@
 
 ---
 
+![MediBridge](./Screenshots/s.PNG)
+
 ## ❗ Problem Statement
 
 Traditional patient recordkeeping in clinics often leads to:
